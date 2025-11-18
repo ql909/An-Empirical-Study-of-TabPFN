@@ -1,7 +1,14 @@
 # An-Empirical-Study-of-TabPFN
 Supplementary materials for the paper "Causal Pre-training Under the Fairness Lens: An Empirical Study of TabPFN" submitted to WWW'26 conference.
 
-# Prerequisite
+## Folders
+
+- Datasets/: Contains datasets used in the paper.
+- RQ1/: Contains scripts and full results for RQ1. 
+- RQ2/: Contains scripts and full results for RQ2.
+
+- 
+##Prerequisite
 The required package version
 
 ```
