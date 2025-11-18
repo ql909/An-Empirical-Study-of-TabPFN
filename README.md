@@ -7,8 +7,9 @@ Supplementary materials for the paper "Causal Pre-training Under the Fairness Le
 - RQ1/: Contains scripts and full results for RQ1. 
 - RQ2/: Contains scripts and full results for RQ2.
 
-- 
-##Prerequisite
+
+
+## Prerequisite
 The required package version
 
 ```
