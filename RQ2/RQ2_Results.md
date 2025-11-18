@@ -1,4 +1,4 @@
-# FINAL RESULTS: Heart Selection Bias + Sample Size Control
+# Heart Dataset Selection Bias + Sample Size Control
 
 | Model     | Acc_Biased | DP_Biased | EO_Biased | ΔAcc_C_mean | ΔDP_C_mean | ΔEO_C_mean | ΔAcc_R_mean | ΔDP_R_mean | ΔEO_R_mean |
 |:----------|------------:|-----------:|-----------:|-------------:|------------:|------------:|-------------:|------------:|------------:|
