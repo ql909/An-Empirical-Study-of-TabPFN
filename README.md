@@ -1,6 +1,25 @@
 # An-Empirical-Study-of-TabPFN
 Supplementary materials for the paper "Causal Pre-training Under the Fairness Lens: An Empirical Study of TabPFN" submitted to WWW'26 conference.
 
+The specific labelling for Table 1 regarding to each dataset can be seen below:
+
+**For the Bank Dataset:**
+*   `DP₁` / `EO₁`: Fairness metrics with **"Education"** as the sensitive attribute.
+*   `DP₂` / `EO₂`: Fairness metrics with **"Family"** as the sensitive attribute.
+
+**For the Heart Dataset:**
+*   `DP₁` / `EO₁`: Fairness metrics with **"Age Group"** as the sensitive attribute.
+*   `DP₂` / `EO₂`: Fairness metrics with **"Sex"** as the sensitive attribute.
+
+**For the Adult Dataset:**
+*   `DP₁` / `EO₁`: Fairness metrics with **"Race"** as the sensitive attribute.
+*   `DP₂` / `EO₂`: Fairness metrics with **"Sex"** as the sensitive attribute.
+
+**For the Law Dataset:**
+*   `DP₁` / `EO₁`: Fairness metrics with **"Race"** as the sensitive attribute.
+*   `DP₂` / `EO₂`: Fairness metrics with **"Sex"** as the sensitive attribute.
+
+
 ## Folders
 
 - Datasets/: Contains datasets used in the paper.
